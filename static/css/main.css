@@ -680,6 +680,10 @@ a, a:visited, a:link {
 
 }
 
+@media (max-width: 600px) {
+  margin-bottom: 2px;
+}
+
 @media (max-height: 480px) and (max-width: 400px) {
 
   .bgStatus {
